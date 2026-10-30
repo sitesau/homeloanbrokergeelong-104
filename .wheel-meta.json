@@ -1,0 +1,22 @@
+{
+  "wheel_id": 542,
+  "structure": "umbrella",
+  "slug": "homeloanbrokergeelong-104",
+  "project": "mortgage-broker-geelong-what-to-expect-0409f4a1b8a42bcb75371af0",
+  "parent_t1_ref": "homeloanbrokergeelong-152",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokergeelong.com.au",
+  "primary_kw": "mortgage broker geelong what to expect",
+  "intended_url": "https://aumedia.neocities.org/mortgage-broker-geelong-what-to-expect-0409f4a1b8a42bcb75371af0/",
+  "tier": "T2",
+  "writeback_nonce": "0bb5947d60280d28",
+  "links": [
+    {
+      "target_url": "http://mortgage-broker-geelong-pros-and-cons-5365cdb8ff2733faff609e149.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Mortgage Broker Geelong Pros and Cons: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
